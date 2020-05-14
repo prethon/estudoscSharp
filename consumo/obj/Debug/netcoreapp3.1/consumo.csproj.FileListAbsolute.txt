@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\bin\Debug\netcoreapp3.1\consumo.exe
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\bin\Debug\netcoreapp3.1\consumo.deps.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\bin\Debug\netcoreapp3.1\consumo.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\bin\Debug\netcoreapp3.1\consumo.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\bin\Debug\netcoreapp3.1\consumo.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\bin\Debug\netcoreapp3.1\consumo.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\obj\Debug\netcoreapp3.1\consumo.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\obj\Debug\netcoreapp3.1\consumo.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\obj\Debug\netcoreapp3.1\consumo.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\obj\Debug\netcoreapp3.1\consumo.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\obj\Debug\netcoreapp3.1\consumo.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\obj\Debug\netcoreapp3.1\consumo.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\consumo\obj\Debug\netcoreapp3.1\consumo.genruntimeconfig.cache
