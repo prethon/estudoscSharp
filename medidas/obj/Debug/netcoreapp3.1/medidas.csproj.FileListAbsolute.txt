@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\bin\Debug\netcoreapp3.1\medidas.exe
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\bin\Debug\netcoreapp3.1\medidas.deps.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\bin\Debug\netcoreapp3.1\medidas.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\bin\Debug\netcoreapp3.1\medidas.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\bin\Debug\netcoreapp3.1\medidas.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\bin\Debug\netcoreapp3.1\medidas.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\obj\Debug\netcoreapp3.1\medidas.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\obj\Debug\netcoreapp3.1\medidas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\obj\Debug\netcoreapp3.1\medidas.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\obj\Debug\netcoreapp3.1\medidas.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\obj\Debug\netcoreapp3.1\medidas.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\obj\Debug\netcoreapp3.1\medidas.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\medidas\obj\Debug\netcoreapp3.1\medidas.genruntimeconfig.cache
