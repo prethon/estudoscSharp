@@ -28,7 +28,7 @@ namespace medidas
             Console.WriteLine("AREA DO TRIANGULO  = "+triangulo.ToString("f4", CI));
             Console.WriteLine("AREA DO TRAPEZIO = "+trapezio.ToString("f4", CI));
             
-
+            
         }
     }
 }
