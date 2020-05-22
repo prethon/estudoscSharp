@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\bin\Debug\netcoreapp3.1\baskara.exe
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\bin\Debug\netcoreapp3.1\baskara.deps.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\bin\Debug\netcoreapp3.1\baskara.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\bin\Debug\netcoreapp3.1\baskara.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\bin\Debug\netcoreapp3.1\baskara.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\bin\Debug\netcoreapp3.1\baskara.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\obj\Debug\netcoreapp3.1\baskara.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\obj\Debug\netcoreapp3.1\baskara.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\obj\Debug\netcoreapp3.1\baskara.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\obj\Debug\netcoreapp3.1\baskara.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\obj\Debug\netcoreapp3.1\baskara.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\obj\Debug\netcoreapp3.1\baskara.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\baskara\obj\Debug\netcoreapp3.1\baskara.genruntimeconfig.cache

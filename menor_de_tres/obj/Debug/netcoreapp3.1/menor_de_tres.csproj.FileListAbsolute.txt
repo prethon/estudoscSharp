@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.exe
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.deps.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.genruntimeconfig.cache

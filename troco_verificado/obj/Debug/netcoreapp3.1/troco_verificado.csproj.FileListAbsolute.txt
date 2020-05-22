@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\obj\Debug\netcoreapp3.1\troco_verificado.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\obj\Debug\netcoreapp3.1\troco_verificado.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\obj\Debug\netcoreapp3.1\troco_verificado.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\obj\Debug\netcoreapp3.1\troco_verificado.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\bin\Debug\netcoreapp3.1\troco_verificado.exe
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\bin\Debug\netcoreapp3.1\troco_verificado.deps.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\bin\Debug\netcoreapp3.1\troco_verificado.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\bin\Debug\netcoreapp3.1\troco_verificado.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\bin\Debug\netcoreapp3.1\troco_verificado.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\bin\Debug\netcoreapp3.1\troco_verificado.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\obj\Debug\netcoreapp3.1\troco_verificado.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\obj\Debug\netcoreapp3.1\troco_verificado.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\troco_verificado\obj\Debug\netcoreapp3.1\troco_verificado.genruntimeconfig.cache

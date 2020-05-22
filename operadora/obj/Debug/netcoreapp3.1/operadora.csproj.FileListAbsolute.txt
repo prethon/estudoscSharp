@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\bin\Debug\netcoreapp3.1\operadora.exe
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\bin\Debug\netcoreapp3.1\operadora.deps.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\bin\Debug\netcoreapp3.1\operadora.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\bin\Debug\netcoreapp3.1\operadora.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\bin\Debug\netcoreapp3.1\operadora.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\bin\Debug\netcoreapp3.1\operadora.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\obj\Debug\netcoreapp3.1\operadora.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\obj\Debug\netcoreapp3.1\operadora.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\obj\Debug\netcoreapp3.1\operadora.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\obj\Debug\netcoreapp3.1\operadora.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\obj\Debug\netcoreapp3.1\operadora.dll
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\obj\Debug\netcoreapp3.1\operadora.pdb
+C:\Users\bruno\OneDrive\Documentos\CSharp\estudoscSharp\operadora\obj\Debug\netcoreapp3.1\operadora.genruntimeconfig.cache
